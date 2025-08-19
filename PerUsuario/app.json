@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "PerfilUsuario",
-    "slug": "PerfilUsuario",
+    "name": "PerUsuario",
+    "slug": "PerUsuario",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "perfilusuario",
+    "scheme": "perusuario",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
